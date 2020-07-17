@@ -1,0 +1,11 @@
+#wrapper {
+  width: 100%;
+  overflow: hidden;
+  background: $base-background-color;
+}
+
+.container {
+  max-width: $max-width-center-container;
+  padding: $padding-container;
+  margin: 0 auto;
+}
